@@ -13,9 +13,10 @@ public class Test4Application {
 		        int y = 200;
 		        char x = "a";
 		        int y =200;
-		         double z =10.3
-			    boolean isPresent=false;
+		        double z =10.3
+			boolean isPresent=false;
 		        float m = 10.3f;
+                        boolean isSub=true
 		SpringApplication.run(Test4Application.class, args);
 	}
 
